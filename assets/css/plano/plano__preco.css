@@ -1,0 +1,17 @@
+.plano__preco {
+  font-size: 1.1rem;
+  position: relative;
+  display: block;
+  width: 120px;
+  height: 120px;
+  color: #ffffff;
+  line-height: 120px;
+  margin: 0 auto -40px auto;
+  border-radius: 50%;
+  background-color: #2CC76A;
+}
+
+
+.plano:nth-child(3) .plano__preco {
+  background-color: #F45F57;
+}

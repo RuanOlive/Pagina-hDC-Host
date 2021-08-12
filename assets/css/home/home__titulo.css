@@ -1,0 +1,11 @@
+.home__titulo {
+  font-size: 3.5rem;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 370px) {
+  .home__titulo {
+    font-size: 3rem;
+  }
+}

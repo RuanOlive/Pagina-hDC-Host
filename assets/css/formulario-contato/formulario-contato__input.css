@@ -1,0 +1,29 @@
+.formulario-contato__input {
+  width: calc(49% - 10px);
+  box-sizing: border-box;
+  border: 1px solid #cccccc;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 17px;
+  margin: 20px 0;
+}
+
+.formulario-contato__input::placeholder {
+  font-size: 17px;
+}
+
+.formulario-contato__input:nth-child(1) {
+  margin-right: 10px;
+}
+
+.formulario-contato__input:nth-child(2) {
+  margin-left: 10px;
+}
+
+
+@media screen and (max-width: 560px) {
+  .formulario-contato .formulario-contato__input {
+    margin: 20px 0;
+    width: 100%;
+  }
+}

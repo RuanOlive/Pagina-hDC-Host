@@ -1,0 +1,11 @@
+.formulario-contato {
+  margin: 0 auto;
+  width: 500px;
+}
+
+
+@media screen and (max-width: 560px) {
+  .formulario-contato {
+    width: 100%;
+  }
+}

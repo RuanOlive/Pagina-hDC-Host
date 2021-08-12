@@ -1,0 +1,7 @@
+.home {
+  background-image: url("../../img/mainbanner.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 10rem 0;
+}

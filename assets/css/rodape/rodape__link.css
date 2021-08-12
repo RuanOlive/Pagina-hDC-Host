@@ -1,0 +1,10 @@
+.rodape__link {
+  color: #333333;
+  font-weight: bold;
+  font-size: 1.3rem;
+  text-decoration: underline #2CC76A;
+}
+
+.rodape__link:hover {
+  text-decoration: none;
+}

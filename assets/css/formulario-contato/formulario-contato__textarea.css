@@ -1,0 +1,16 @@
+.formulario-contato__textarea {
+  margin: 0 auto;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+  font-size: 17px;
+  height: 180px;
+  border-radius: 5px;
+  border: 1px solid #cccccc;
+  padding: 10px;
+  display: block;
+}
+
+.formulario-contato__textarea::placeholder {
+  font-family: 'Open sans';
+}

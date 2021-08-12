@@ -1,0 +1,21 @@
+.formulario-dominio__input {
+  padding: 20px;
+  line-height: 30px;
+  font-size: 1.3rem;
+  width: 60%;
+  box-sizing: border-box;
+  border-radius: 8px;
+  border: 0;
+  margin: 0 auto;
+  display: block;
+}
+
+.formulario-dominio__input::placeholder {
+  font-size: 1.2rem;
+}
+
+@media screen and (max-width: 600px) {
+  .formulario-dominio__input {
+    width: 100%;
+  }
+}

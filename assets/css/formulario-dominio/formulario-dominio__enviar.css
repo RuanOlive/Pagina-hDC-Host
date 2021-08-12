@@ -1,0 +1,15 @@
+.formulario-dominio__enviar {
+  margin-top: 30px;
+  padding: 20px 30px;
+  border: 0;
+  font-size: 1.4rem;
+  border-radius: 8px;
+  background-color: #2CC76A;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 600px) {
+  .formulario-dominio__enviar {
+    width: 100%;
+  }
+}

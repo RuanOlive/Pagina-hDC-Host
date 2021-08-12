@@ -1,0 +1,15 @@
+.home__paragrafo {
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 0 20px;
+  line-height: 2.5rem;
+  box-sizing: border-box;
+  margin-top: 30px;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 370px) {
+  .home__paragrafo {
+    font-size: 1.5rem;
+  }
+}

@@ -1,0 +1,25 @@
+.plano__link {
+  background-color: #2CC76A;
+  text-decoration: none;
+  height: 75px;
+  line-height: 75px;
+  text-align: center;
+  display: block;
+  color: #ffffff;
+  font-weight: bold;
+  transition: 500ms color;
+}
+
+.plano__link:hover {
+  transition: 500ms;
+  background-color: #20a053;
+}
+
+.plano:nth-child(3) .plano__link {
+  background-color: #F45C57;
+}
+
+.plano:nth-child(3) .plano__link:hover {
+  transition: 500ms;
+  background-color: #c94c47;
+}

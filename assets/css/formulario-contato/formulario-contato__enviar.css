@@ -1,0 +1,15 @@
+.formulario-contato__enviar {
+  margin-top: 30px;
+  background-color: #2CC76A;
+  color: #ffffff;
+  font-size: 17px;
+  padding: 15px 70px;
+  border: 0;
+  border-radius: 5px;
+}
+
+@media screen and (max-width: 560px) {
+  .formulario-contato__enviar {
+    width: 100%;
+  }
+}

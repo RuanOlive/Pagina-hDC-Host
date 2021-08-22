@@ -6,6 +6,12 @@
   padding: 15px 70px;
   border: 0;
   border-radius: 5px;
+  transition: background-color 500ms;
+}
+
+.formulario-contato__enviar:hover {
+  cursor: pointer;
+  background-color: #20a053;
 }
 
 @media screen and (max-width: 560px) {

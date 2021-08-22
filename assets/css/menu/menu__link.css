@@ -21,7 +21,8 @@
 }
 
 .menu__item:nth-child(4) .menu__link:hover {
-  background-color: #2ebe68;
+  transition: 500ms;
+  background-color: #20a053;
   text-decoration: none;
   border-radius: 5px;
   padding: 15px 25px;

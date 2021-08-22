@@ -7,11 +7,10 @@
   display: block;
   color: #ffffff;
   font-weight: bold;
-  transition: 500ms color;
+  transition: background-color 500ms;
 }
 
 .plano__link:hover {
-  transition: 500ms;
   background-color: #20a053;
 }
 

@@ -6,6 +6,12 @@
   border-radius: 8px;
   background-color: #2CC76A;
   color: #ffffff;
+  transition: background-color 500ms;
+}
+
+.formulario-dominio__enviar:hover {
+  cursor: pointer;
+  background-color: #20a053;
 }
 
 @media screen and (max-width: 600px) {
